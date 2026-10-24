@@ -1,0 +1,6 @@
+gw1_preview.json
+GW-X.log
+build/
+dist/
+*.spec
+__pycache__/
